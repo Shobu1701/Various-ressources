@@ -1,0 +1,37 @@
+Pots:
+
+Every time there is no pot, the dealer contributes 20 and all other players contribute 10 to form a new pot.
+
+Every hand where a pot is already in place, the dealer adds 5 to the largest.
+
+Every hand where a game is won, the winner takes the contents of the largest pot.
+
+Every hand where a game is lost:
+if one undoubled pot is on the table, the loser doubles that pot.
+Otherwise, the loser contributes a new pot of the same value.
+
+
+Bids:
+
+Prise / Purchase (Achete) - the bidder exchanges with the talon, the "purchases" one suit card he'd like, (Say, a missing king or a queen) in exchange for one card from his hand face down, and 10 points.
+
+Guarde (Sans achete) - the bidder exchanges with the talon.
+
+Guarde sans (Sans ecart) - the bidder takes the talon into his tricks, but does not exchange
+
+Guarde contre (Solissimo) - the bidder gives the talon, unseen to the opponents.
+
+If all pass, "Misere" is played: The usual follow rules apply, accept that playing the Excuse to the last trick wins the trick.  A player who takes no tricks "wins" and receives the pot; otherwise, the player who took the most points "loses" and doubles the pot.
+
+For the 4 positive bids, the value of the game is number of points distant from the target, plus 10 (guarde), 20 (guarde sans) or 30 (guarde contre). This value is payed to or from the bidder to the other players.
+
+Poignees are worth 10, 20, or 30, and are payed by all to or from the announcer.
+ 
+Four Player
+In a bid of prise, the declarer may either make a purchase or call a partner (naming a King he doesn't have).  If played with a partner, the pot will be split evenly if won; but he will double it if lost. The game value will be played by each partner to one opponent.
+?
+Five player.
+A partner is always requested, naming a king the declarer doesn't have.  A pot won will be split with the partner; a pot lost will be doubled by the declarer.  Declarer will be payed by two opponents; partner by the remaining.
+?
+Paguet a la fin (Petit au bout)
+A paguet ultimo is counted "within" - it reduces the target points by a further 10 points.
